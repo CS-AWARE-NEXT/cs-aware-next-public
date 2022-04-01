@@ -1,79 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://CS-AWARE-NEXT.github.io/cs-aware-next-public/authors/anonymous/</loc>
+    <loc>/authors/anonymous/</loc>
     <lastmod>2022-03-16T12:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://CS-AWARE-NEXT.github.io/cs-aware-next-public/authors/</loc>
+  </url><url>
+    <loc>/authors/</loc>
     <lastmod>2022-03-16T12:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://CS-AWARE-NEXT.github.io/cs-aware-next-public/blog/</loc>
+  </url><url>
+    <loc>/blog/</loc>
     <lastmod>2022-03-16T12:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://CS-AWARE-NEXT.github.io/cs-aware-next-public/categories/</loc>
+  </url><url>
+    <loc>/categories/</loc>
     <lastmod>2022-03-16T12:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://CS-AWARE-NEXT.github.io/cs-aware-next-public/</loc>
+  </url><url>
+    <loc>/</loc>
     <lastmod>2022-03-16T12:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://CS-AWARE-NEXT.github.io/cs-aware-next-public/tags/hello/</loc>
+  </url><url>
+    <loc>/tags/hello/</loc>
     <lastmod>2022-03-16T12:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://CS-AWARE-NEXT.github.io/cs-aware-next-public/blog/2022/03/16/hello-world/</loc>
+  </url><url>
+    <loc>/blog/2022/03/16/hello-world/</loc>
     <lastmod>2022-03-16T12:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://CS-AWARE-NEXT.github.io/cs-aware-next-public/categories/introduction/</loc>
+  </url><url>
+    <loc>/categories/introduction/</loc>
     <lastmod>2022-03-16T12:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://CS-AWARE-NEXT.github.io/cs-aware-next-public/tags/</loc>
+  </url><url>
+    <loc>/tags/</loc>
     <lastmod>2022-03-16T12:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://CS-AWARE-NEXT.github.io/cs-aware-next-public/tags/world/</loc>
+  </url><url>
+    <loc>/tags/world/</loc>
     <lastmod>2022-03-16T12:00:00+02:00</lastmod>
+  </url><url>
+    <loc>/consortium/</loc>
+  </url><url>
+    <loc>/contact/</loc>
+  </url><url>
+    <loc>/project_impact/</loc>
+  </url><url>
+    <loc>/project_objectives/</loc>
+  </url><url>
+    <loc>/project_overview/</loc>
+  </url><url>
+    <loc>/tos/</loc>
   </url>
-  
-  <url>
-    <loc>https://CS-AWARE-NEXT.github.io/cs-aware-next-public/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>https://CS-AWARE-NEXT.github.io/cs-aware-next-public/consortium/</loc>
-  </url>
-  
-  <url>
-    <loc>https://CS-AWARE-NEXT.github.io/cs-aware-next-public/project_impact/</loc>
-  </url>
-  
-  <url>
-    <loc>https://CS-AWARE-NEXT.github.io/cs-aware-next-public/project_objectives/</loc>
-  </url>
-  
-  <url>
-    <loc>https://CS-AWARE-NEXT.github.io/cs-aware-next-public/project_overview/</loc>
-  </url>
-  
-  <url>
-    <loc>https://CS-AWARE-NEXT.github.io/cs-aware-next-public/tos/</loc>
-  </url>
-  
 </urlset>
