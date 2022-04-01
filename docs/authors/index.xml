@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on CS-AWARE-NEXT</title>
-    <link>/authors/</link>
+    <link>https://github.com/cs-aware-next/cs-aware-next-public/authors/</link>
     <description>Recent content in Authors on CS-AWARE-NEXT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Mar 2022 12:00:00 +0200</lastBuildDate><atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Mar 2022 12:00:00 +0200</lastBuildDate><atom:link href="https://github.com/cs-aware-next/cs-aware-next-public/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Anonymous</title>
-      <link>/authors/anonymous/</link>
+      <link>https://github.com/cs-aware-next/cs-aware-next-public/authors/anonymous/</link>
       <pubDate>Wed, 16 Mar 2022 12:00:00 +0200</pubDate>
       
-      <guid>/authors/anonymous/</guid>
+      <guid>https://github.com/cs-aware-next/cs-aware-next-public/authors/anonymous/</guid>
       <description></description>
     </item>
     
