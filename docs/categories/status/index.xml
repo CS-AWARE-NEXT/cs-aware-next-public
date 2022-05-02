@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Project blog on CS-AWARE-NEXT</title>
-    <link>/cs-aware-next-public/blog/</link>
-    <description>Recent content in Project blog on CS-AWARE-NEXT</description>
+    <title>status on CS-AWARE-NEXT</title>
+    <link>/cs-aware-next-public/categories/status/</link>
+    <description>Recent content in status on CS-AWARE-NEXT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Apr 2022 12:00:00 +0200</lastBuildDate><atom:link href="/cs-aware-next-public/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Apr 2022 12:00:00 +0200</lastBuildDate><atom:link href="/cs-aware-next-public/categories/status/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello world!</title>
       <link>/cs-aware-next-public/blog/2022/04/28/hello-world/</link>
