@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on CS-AWARE-NEXT</title>
-    <link>/categories/</link>
+    <link>/cs-aware-next-public/categories/</link>
     <description>Recent content in Categories on CS-AWARE-NEXT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Apr 2022 12:00:00 +0200</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Apr 2022 12:00:00 +0200</lastBuildDate><atom:link href="/cs-aware-next-public/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>all</title>
-      <link>/categories/all/</link>
+      <link>/cs-aware-next-public/categories/all/</link>
       <pubDate>Thu, 28 Apr 2022 12:00:00 +0200</pubDate>
       
-      <guid>/categories/all/</guid>
+      <guid>/cs-aware-next-public/categories/all/</guid>
       <description></description>
     </item>
     
     <item>
       <title>status</title>
-      <link>/categories/status/</link>
+      <link>/cs-aware-next-public/categories/status/</link>
       <pubDate>Thu, 28 Apr 2022 12:00:00 +0200</pubDate>
       
-      <guid>/categories/status/</guid>
+      <guid>/cs-aware-next-public/categories/status/</guid>
       <description></description>
     </item>
     
