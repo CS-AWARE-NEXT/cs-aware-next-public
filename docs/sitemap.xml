@@ -2,53 +2,53 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/cs-aware-next-public/categories/all/</loc>
+    <loc>/categories/all/</loc>
     <lastmod>2022-04-28T12:00:00+02:00</lastmod>
   </url><url>
-    <loc>/cs-aware-next-public/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2022-04-28T12:00:00+02:00</lastmod>
   </url><url>
-    <loc>/cs-aware-next-public/</loc>
+    <loc>/</loc>
     <lastmod>2022-04-28T12:00:00+02:00</lastmod>
   </url><url>
-    <loc>/cs-aware-next-public/blog/2022/04/28/hello-world/</loc>
+    <loc>/blog/2022/04/28/hello-world/</loc>
     <lastmod>2022-04-28T12:00:00+02:00</lastmod>
   </url><url>
-    <loc>/cs-aware-next-public/tags/information/</loc>
+    <loc>/tags/information/</loc>
     <lastmod>2022-04-28T12:00:00+02:00</lastmod>
   </url><url>
-    <loc>/cs-aware-next-public/blog/</loc>
+    <loc>/blog/</loc>
     <lastmod>2022-04-28T12:00:00+02:00</lastmod>
   </url><url>
-    <loc>/cs-aware-next-public/categories/status/</loc>
+    <loc>/categories/status/</loc>
     <lastmod>2022-04-28T12:00:00+02:00</lastmod>
   </url><url>
-    <loc>/cs-aware-next-public/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2022-04-28T12:00:00+02:00</lastmod>
   </url><url>
-    <loc>/cs-aware-next-public/tags/timeline/</loc>
+    <loc>/tags/timeline/</loc>
     <lastmod>2022-04-28T12:00:00+02:00</lastmod>
   </url><url>
-    <loc>/cs-aware-next-public/publications/pub1/</loc>
+    <loc>/publications/pub1/</loc>
   </url><url>
-    <loc>/cs-aware-next-public/authors/</loc>
+    <loc>/authors/</loc>
   </url><url>
-    <loc>/cs-aware-next-public/consortium/</loc>
+    <loc>/consortium/</loc>
   </url><url>
-    <loc>/cs-aware-next-public/contact/</loc>
+    <loc>/contact/</loc>
   </url><url>
-    <loc>/cs-aware-next-public/project_impact/</loc>
+    <loc>/project_impact/</loc>
   </url><url>
-    <loc>/cs-aware-next-public/project_objectives/</loc>
+    <loc>/project_objectives/</loc>
   </url><url>
-    <loc>/cs-aware-next-public/project_overview/</loc>
+    <loc>/project_overview/</loc>
   </url><url>
-    <loc>/cs-aware-next-public/authors/project-team/unioulu/</loc>
+    <loc>/authors/project-team/unioulu/</loc>
   </url><url>
-    <loc>/cs-aware-next-public/publications/</loc>
+    <loc>/publications/</loc>
   </url><url>
-    <loc>/cs-aware-next-public/project_publications/</loc>
+    <loc>/project_publications/</loc>
   </url><url>
-    <loc>/cs-aware-next-public/tos/</loc>
+    <loc>/tos/</loc>
   </url>
 </urlset>
